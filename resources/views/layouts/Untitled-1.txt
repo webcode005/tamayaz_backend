@@ -1,0 +1,63 @@
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('add-whychoose') }}">
+           <i class="fas fa-calendar text-gray-400"></i>
+           <span>why choose</span>
+       </a>
+
+   </li>
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('add-category') }}">
+           <i class="fas fa-calendar text-gray-400"></i>
+           <span> Category</span>
+       </a>
+
+   </li>
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('add-product') }}">
+           <i class="fas fa-calendar text-gray-400"></i>
+           <span> Course</span>
+       </a>
+
+   </li>
+
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('website-enquiry') }}">
+           <i class="fas fa-clipboard-list text-gray-400"></i>
+           <span>Website Enquiry</span></a>
+   </li>
+
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('brochure-enquiry') }}">
+           <i class="fas fa-clipboard-list text-gray-400"></i>
+           <span>Brochure Enquiry</span></a>
+   </li>
+
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('contact-detail') }}">
+           <i class="fas fa-clipboard-list text-gray-400"></i>
+           <span>Contact Detail</span></a>
+   </li>
+
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('add-slider') }}">
+           <i class="fas fa-clipboard-list text-gray-400"></i>
+           <span> Slider</span></a>
+   </li>
+
+
+
+   <!-- Divider -->
+   <hr class="sidebar-divider">
+
+   <li class="nav-item">
+       <a class="nav-link" href="{{ route('blog') }}">
+           <i class="fas fa-calendar text-gray-400"></i>
+           <span> Blog</span>
+       </a>
+   </li>

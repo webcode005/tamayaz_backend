@@ -1,0 +1,133 @@
+.bg-login {
+    background-color: #fff;
+    padding: 5px;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.bg-login {
+    margin-top: 120px;
+}
+
+body {
+    font-family: 'DM Sans' !important;
+}
+
+.logo-login img {
+    width: 150px;
+    margin: 0 auto;
+}
+
+.bg-login p {
+    color: #363636;
+    font-size: 15px;
+}
+
+.Dashboard span {
+    font-size: 16px !important;
+    letter-spacing: 0.5px;
+    font-weight: 600 !important;
+}
+
+.add-client {
+    background-color: #eaeaea;
+    padding: 10px;
+    letter-spacing: 0.4px;
+    margin-bottom: 18px !important;
+    border-radius: 4px;
+}
+
+.table-responsive th {
+    font-size: 14px !important;
+    color: #363636 !important;
+}
+
+.table-responsive td {
+    font-size: 15px !important;
+    color: #363636 !important;
+}
+
+.edit-section button {
+    font-size: 12px;
+    float: left;
+    border-radius: 4px;
+    padding: 4px 7px;
+    margin: 2px;
+}
+
+.display button {
+    display: flow-root !important;
+    float: none !important;
+}
+
+.bg-login {
+    padding: 30px;
+    border: 1px solid #ddd;
+    box-shadow: 6px 6px #4e73df;
+}
+
+@media(max-width:700px) {
+    .bg-login {
+        width: 100% !important;
+    }
+
+    .bg-login {
+        margin-top: 85px !important;
+        padding: 20px !important;
+    }
+
+    .footer-content a {
+        font-size: 13px;
+    }
+
+    .footer-content img {
+        width: 130px !important;
+    }
+
+    .logo-login img {
+        width: 130px !important;
+    }
+}
+
+.footer-section {
+    position: fixed;
+    bottom: 0px;
+    z-index: 999;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+}
+
+.footer-content img {
+    width: 150px;
+}
+
+.footer-content a {
+    color: #000;
+    text-decoration: none !important;
+    letter-spacing: 0.2px;
+}
+
+.bg-gradient {
+    background-color: #ff6818;
+}
+
+.image-section img {
+    width: 200px;
+}
+
+.form-group label {
+    color: #000;
+    font-size: 15px;
+}
+
+.image-upload img {
+    width: 200px;
+}
+
+.pdf-section img {
+    width: 50px;
+}
